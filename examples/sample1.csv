@@ -1,0 +1,4 @@
+name,position,completed_tasks,performance,skills,team,experience_years
+Alex Ivanov,Backend Developer,45,4.8,"Python, Django, PostgreSQL, Docker",API Team,5
+Maria Petrova,Frontend Developer,38,4.7,"React, TypeScript, Redux, CSS",Web Team,4
+John Smith,Data Scientist,29,4.6,"Python, ML, SQL, Pandas",AI Team,3
